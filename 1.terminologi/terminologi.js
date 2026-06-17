@@ -15,10 +15,13 @@
 
 //! 2. APA ITU ANDROID SDK
 /*
- * ANDROID SDK ADALAH SEBUAH TOOLS ATAU PKG YG DIGUNAKAN UNTUK MEMBANTU KITA MENGEMBANGKAN APLIKASI ANDROID
-    TODO: CONTOHNYA BUAT COMPILE APLIKASI KITA DAN MENJALANKANNYA DI DEVICE
+ *  Android SDK adalah sebuah paket (package) atau blueprint yang membantu developer android dalam membuat aplikasi untuk versi Android tertentu. 
+    TODO: NOTE:Android SDK ini bisa diunduh dan dikelola melalui Android Studio saat pertama kali setup atau melalui SDK Manager
+    
+    ANDROID TOOLS adalah kumpulan program utilitas atau (tools) yang menyediakan perintah-perintah (commands) untuk memproses aplikasi kita.
+    CONTOHNYA mengubah kode menjadi aplikasi (build), menghubungkan laptop dengan emulator atau HP asli, serta melakukan pelacakan error (debug)."
 
-    todo:note API LEVEL adalah fungsi" atau fitur yg disediakan ATAU ADA di versi android tertentu untuk mengembangkan aplikasi android
+    todo:note API LEVEL adalah sekumpulan fungsi" atau fitur yg  ADA di versi android tertentu untuk mengembangkan aplikasi android
 
     todo: minimum sdk adalah sebuah cara untuk menentukan minimal versi android yg bisa menginstal aplikasi kita
     todo: target sdk adalah sebuah cara untuk menentukan target  versi android yg disarankan untuk menggunakan aplikasi kita 
